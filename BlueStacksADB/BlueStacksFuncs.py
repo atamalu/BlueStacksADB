@@ -46,7 +46,7 @@ def adb_tap_region(x, y, radius, device_ip='emulator-5554'):
 	y2 = y + sqrt(r_squar) * sin(theta)
 	adb_tap(x_coord = x2, y_coord = y2, device_ip = device_ip)
 
-###
+### Get list of devices
 def device_list(adb_exe_name='HD-Adb.exe'):
 	
 	devicelist = adb_shell(cmd = 'devices', adb_exe_name = adb_exe_name)

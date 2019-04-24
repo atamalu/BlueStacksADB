@@ -1,0 +1,114 @@
+{
+	"CHARACTER 1": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 5,
+			"completion time": 320
+			}],
+		"daily dungeon": [{
+			"tickets": 3,
+			"difficulty": 5,
+			"completion time": 75
+			}],
+		"mu lung": [{
+			"tickets": 3,
+			"completion time": 400
+			}]
+		}],
+	"CHARACTER 2": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 4,
+			"completion time": 350
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 4,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}],
+	"CHARACTER 3": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 4,
+			"completion time": 400
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 4,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}],
+	"CHARACTER 4": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 4,
+			"completion time": 320
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 4,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}],
+	"CHARACTER 5": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 3,
+			"completion time": 320
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 3,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}],
+	"CHARACTER 6": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 3,
+			"completion time": 350
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 3,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}],
+	"CHARACTER 7": [{
+		"elite dungeon": [{
+			"tickets": 3,
+			"difficulty": 3,
+			"completion time": 350
+			}],
+		"daily dungeon": [{
+			"tickets": 1,
+			"difficulty": 3,
+			"completion time": 100
+			}],
+		"mu lung": [{
+			"tickets": 0,
+			"completion time": 0
+			}]
+		}]
+}
