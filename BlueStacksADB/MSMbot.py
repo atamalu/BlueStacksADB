@@ -39,7 +39,7 @@ fl_dict = {
 	"ADB Exe File":AdbExe
 }
 
-import BlueStacksFuncs
+from BlueStacksFuncs import adb_connect, adb_shell, adb_keyevent, adb_tap, adb_tap_region, device_list
 
 #############################################################################################################
 
