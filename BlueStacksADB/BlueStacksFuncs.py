@@ -1,3 +1,11 @@
+import subprocess
+import os
+import random
+from time import sleep
+from math import pi, cos, sin, sqrt
+import re
+import json
+
 ### Connect to adb
 
 def adb_connect(adb_exe_name="HD-Adb.exe"):
@@ -60,3 +68,4 @@ def device_list(adb_exe_name='HD-Adb.exe'):
 			devlist.append(i)
 	return(devlist)
 
+###
