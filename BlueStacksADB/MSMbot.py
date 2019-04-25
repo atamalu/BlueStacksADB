@@ -65,10 +65,14 @@ def elite_dungeon(num_chars = 7):
 			
 			### Tap on start
 			adb_tap_region(*coords["select character menu"][0]["start"]) # hit start
-			sleep(random.randint(10, 12))
+			sleep(random.randint(13, 14))
+			
+			### Tap on main menu icon
+			adb_tap_region(*coords["access full menu"])
+			sleep(random.randint(3, 4))
 			
 			### Tap on dungeons icon
-			adb_tap_region(*coords["main screen"][0]["dungeons icon"])
+			adb_tap_region(*coords["full menu"][0]["dungeons"])
 			sleep(random.randint(11, 13))
 			
 			### Tap on elite dungeon graphic
@@ -109,15 +113,19 @@ def elite_dungeon(num_chars = 7):
 			
 				##### Execute after tickets run out (keep this here)
 				adb_tap_region(*coords["elite dungeon menu"][0]["X button"])
-				sleep(random.randint(7, 8))
+				sleep(random.randint(6, 7))
 		
 				### Go to full menu and select character
 				adb_tap_region(*coords["access full menu"])
-				sleep(random.randint(6, 7))
+				sleep(random.randint(7, 8))
 		
 				### Enter options
 				adb_tap_region(*coords["full menu"][0]["options"])
-				sleep(random.randint(6, 7))
+				sleep(random.randint(5, 6))
+				
+				### Tap info tab
+				adb_tap_region(*coords["options menu"][0]["info tab"])
+				sleep(random.randint(2, 3))
 		
 				### Select character
 				adb_tap_region(*coords["options menu"][0]["select character"])

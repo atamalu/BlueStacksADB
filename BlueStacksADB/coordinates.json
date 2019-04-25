@@ -5,24 +5,24 @@
 		"dungeons icon":[868, 35, 2]
 	}],
 	"dungeons menu": [{
-		"dungeon 1":[140, 280, 4],
-		"dungeon 2":[355, 280, 4],
-		"dungeon 3":[585, 280, 4],
-		"dungeon 4":[805, 280, 4],
-		"dungeon 5":[1025, 280, 4],
-		"dungeon 6":[140, 560, 4],
-		"dungeon 7":[355, 560, 4],
-		"dungeon 8":[585, 560, 4],
-		"dungeon 9":[805, 560, 4],
-		"dungeon 10":[1025, 560, 4]
+		"dungeon 1":[140, 280, 5],
+		"dungeon 2":[360, 280, 5],
+		"dungeon 3":[580, 280, 5],
+		"dungeon 4":[800, 280, 5],
+		"dungeon 5":[1020, 280, 5],
+		"dungeon 6":[140, 560, 5],
+		"dungeon 7":[360, 560, 5],
+		"dungeon 8":[580, 560, 5],
+		"dungeon 9":[805, 560, 5],
+		"dungeon 10":[1020, 560, 5]
 	}],
 	"dungeon menu":[140, 280, 4],
 	"create dungeon":[830, 660, 3],
 	"start dungeon":[147, 208, 2],
 	"dungeon finished": [{
-		"challenge again":[830, 635, 3],
-		"go to menu":[640, 635, 3],
-		"exit dungeon":[450, 635, 3]
+		"challenge again":[830, 638, 2],
+		"go to menu":[640, 638, 2],
+		"exit dungeon":[450, 638, 2]
 	}],
 	"elite dungeon menu": [{
 		"difficulty 1":[140, 150, 4],
@@ -49,8 +49,8 @@
 		"options":[1100, 635, 3]
 	}],
 	"options menu": [{
-		"select character":[635, 640, 3],
-		"log out":[420, 572, 1]
+		"info tab":[78, 400, 1],
+		"select character":[635, 243, 1]
 		}],
 	"select character menu": [{
 		"char 1":[280, 220, 6],

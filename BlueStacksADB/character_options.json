@@ -1,25 +1,25 @@
 {
 	"CHARACTER 1": [{
 		"elite dungeon": [{
-			"tickets": 3,
+			"tickets": 1,
 			"difficulty": 5,
-			"completion time": 320
+			"completion time": 260
 			}],
 		"daily dungeon": [{
-			"tickets": 3,
-			"difficulty": 5,
-			"completion time": 75
+			"tickets": 1,
+			"difficulty": 2,
+			"completion time": 350
 			}],
 		"mu lung": [{
-			"tickets": 3,
-			"completion time": 400
+			"tickets": 2,
+			"completion time": 350
 			}]
 		}],
 	"CHARACTER 2": [{
 		"elite dungeon": [{
-			"tickets": 3,
+			"tickets": 2,
 			"difficulty": 4,
-			"completion time": 350
+			"completion time": 360
 			}],
 		"daily dungeon": [{
 			"tickets": 1,
@@ -33,9 +33,9 @@
 		}],
 	"CHARACTER 3": [{
 		"elite dungeon": [{
-			"tickets": 3,
-			"difficulty": 4,
-			"completion time": 400
+			"tickets": 2,
+			"difficulty": 3,
+			"completion time": 320
 			}],
 		"daily dungeon": [{
 			"tickets": 1,
@@ -49,9 +49,9 @@
 		}],
 	"CHARACTER 4": [{
 		"elite dungeon": [{
-			"tickets": 3,
+			"tickets": 2,
 			"difficulty": 4,
-			"completion time": 320
+			"completion time": 500
 			}],
 		"daily dungeon": [{
 			"tickets": 1,
@@ -97,9 +97,9 @@
 		}],
 	"CHARACTER 7": [{
 		"elite dungeon": [{
-			"tickets": 3,
+			"tickets": 6,
 			"difficulty": 3,
-			"completion time": 350
+			"completion time": 340
 			}],
 		"daily dungeon": [{
 			"tickets": 1,
