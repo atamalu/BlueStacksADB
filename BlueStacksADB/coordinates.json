@@ -1,74 +1,117 @@
 {
-	"list key":["x", "y", "radius"],
-	"main screen": [{
-		"auto battle":[335, 665, 2],
-		"dungeons icon":[868, 35, 2]
-	}],
-	"dungeons menu": [{
-		"dungeon 1":[140, 280, 5],
-		"dungeon 2":[360, 280, 5],
-		"dungeon 3":[580, 280, 5],
-		"dungeon 4":[800, 280, 5],
-		"dungeon 5":[1020, 280, 5],
-		"dungeon 6":[140, 560, 5],
-		"dungeon 7":[360, 560, 5],
-		"dungeon 8":[580, 560, 5],
-		"dungeon 9":[805, 560, 5],
-		"dungeon 10":[1020, 560, 5]
-	}],
-	"dungeon menu":[140, 280, 4],
-	"create dungeon":[830, 660, 3],
-	"start dungeon":[147, 208, 2],
-	"dungeon finished": [{
-		"challenge again":[830, 638, 2],
-		"go to menu":[640, 638, 2],
-		"exit dungeon":[450, 638, 2]
-	}],
-	"elite dungeon menu": [{
-		"difficulty 1":[140, 150, 4],
-		"difficulty 2":[390, 150, 4],
-		"difficulty 3":[640, 150, 4],
-		"difficulty 4":[890, 150, 4],
-		"difficulty 5":[1140, 150, 4],
-		"X button":[1241, 40, 1]
-	}],
-    "access full menu":[1235, 30, 2],
-	"full menu": [{
-		"character":[180, 50, 3],
-		"challenge":[365, 50, 3],
-		"bag":[550, 50, 3],
-		"forge":[730, 50, 3],
-		"mail":[910, 50, 3],
-		"dungeons":[1090, 50, 3],
-		"shop":[160, 635, 3],
-		"package":[320, 635, 3],
-		"trade station":[480, 635, 3],
-		"friends":[640, 635, 3],
-		"guild":[800, 635, 3],
-		"rank":[960, 635, 3],
-		"options":[1100, 635, 3]
-	}],
-	"options menu": [{
-		"info tab":[78, 400, 1],
-		"select character":[635, 243, 1]
-		}],
-	"select character menu": [{
-		"char 1":[280, 220, 6],
-		"char 2":[470, 220, 6],
-		"char 3":[660, 220, 6],
-		"char 4":[165, 510, 6],
-		"char 5":[365, 510, 6],
-		"char 6":[565, 510, 6],
-		"char 7":[765, 510, 6],
-		"start":[1070, 615, 2]
-	}],
-	"hotkeys": [{
-		"button 1":[952, 668, 4],
-		"button 2":[952, 568, 4],
-		"button 3":[1027, 492, 4],
-		"button 4":[1135, 487, 4],
-		"button 5":[1089, 620, 4],
-		"switch hotkeys":[1230, 490, 4],
-		"hotkey jump":[1220, 610, 4]
-	}]
+	"access full menu": [ 1235, 30, 2 ],
+	"create dungeon": [ 830, 660, 3 ],
+	"daily dungeon menu": [ 
+		{
+			"monday": [ 135, 150, 3 ],
+			"tuesday": [ 385, 150, 3 ],
+			"wednesday": [ 635, 150, 3 ],
+			"thursday": [ 885, 150, 3 ],
+			"friday": [ 1135, 150, 3 ],
+			"difficulty 1": [ 265, 100, 2 ],
+			"difficulty 2": [ 335, 100, 2 ],
+			"difficulty 3": [ 405, 100, 2 ],
+			"difficulty 4": [ 475, 100, 2 ],
+			"difficulty 5": [ 545, 100, 2 ],
+			"enter": [ 1115, 663, 3 ]
+		}
+	],
+	"dungeon finished": [
+		{
+			"challenge again ed": [ 830, 638, 2 ],
+			"go to menu ed": [ 640, 638, 2 ],
+			"exit dungeon ed": [ 450, 638, 2 ],
+			"challenge again dd":[830, 605, 2],
+			"go to menu dd":[640, 605, 2],
+			"exit dungeon dd":[450, 605, 2],
+			"challenge again ml":[ 830, 640, 2 ],
+			"exit dungeon ml":[ 445, 640, 2 ],
+			"go to menu ml":[640, 640, 3]
+		}
+	],
+	"dungeon menu": [ 140, 280, 4 ],
+	"dungeons menu": [
+		{
+			"dungeon 1": [ 140, 280, 5 ],
+			"dungeon 2": [ 360, 280, 5 ],
+			"dungeon 3": [ 580, 280, 5 ],
+			"dungeon 4": [ 800, 280, 5 ],
+			"dungeon 5": [ 1020, 280, 5 ],
+			"dungeon 6": [ 140, 560, 5 ],
+			"dungeon 7": [ 360, 560, 5 ],
+			"dungeon 8": [ 580, 560, 5 ],
+			"dungeon 9": [ 805, 560, 5 ],
+			"dungeon 10": [ 1020, 560, 5 ]
+		}
+	],
+	"elite dungeon menu": [
+		{
+			"difficulty 1": [ 140, 150, 4 ],
+			"difficulty 2": [ 390, 150, 4 ],
+			"difficulty 3": [ 640, 150, 4 ],
+			"difficulty 4": [ 890, 150, 4 ],
+			"difficulty 5": [ 1140, 150, 4 ],
+			"X button": [ 1241, 40, 1 ]
+		}
+	],
+	"full menu": [
+		{
+			"character": [ 180, 50, 3 ],
+			"challenge": [ 365, 50, 3 ],
+			"bag": [ 550, 50, 3 ],
+			"forge": [ 730, 50, 3 ],
+			"mail": [ 910, 50, 3 ],
+			"dungeons": [ 1090, 50, 3 ],
+			"shop": [ 160, 635, 3 ],
+			"package": [ 320, 635, 3 ],
+			"trade station": [ 480, 635, 3 ],
+			"friends": [ 640, 635, 3 ],
+			"guild": [ 800, 635, 3 ],
+			"rank": [ 960, 635, 3 ],
+			"options": [ 1100, 635, 3 ]
+		}
+	],
+	"hotkeys": [
+		{
+			"button 1": [ 952, 668, 4 ],
+			"button 2": [ 952, 568, 4 ],
+			"button 3": [ 1027, 492, 4 ],
+			"button 4": [ 1135, 487, 4 ],
+			"button 5": [ 1089, 620, 4 ],
+			"switch hotkeys": [ 1230, 490, 4 ],
+			"hotkey jump": [ 1220, 610, 4 ]
+		}
+	],
+	"list key": [ "x", "y", "radius" ],
+	"main screen": [
+		{
+			"auto battle": [ 335, 665, 2 ],
+			"dungeons icon": [ 868, 35, 2 ]
+		}
+	],
+	"mu lung menu": [
+		{
+			"change later":[ 1, 1, 1 ],
+			"confirm enter":[ 785, 643, 2 ]
+		}
+	],
+	"options menu": [
+		{
+			"info tab": [ 78, 400, 1 ],
+			"select character": [ 635, 243, 1 ]
+		}
+	],
+	"select character menu": [
+		{
+			"char 1": [ 280, 220, 6 ],
+			"char 2": [ 470, 220, 6 ],
+			"char 3": [ 660, 220, 6 ],
+			"char 4": [ 165, 510, 6 ],
+			"char 5": [ 365, 510, 6 ],
+			"char 6": [ 565, 510, 6 ],
+			"char 7": [ 765, 510, 6 ],
+			"start": [ 1070, 615, 2 ]
+		}
+	],
+	"start dungeon": [ 147, 208, 2 ]
 }

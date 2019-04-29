@@ -11,13 +11,13 @@
 - root BlueStacks and restart here if usage steps 1-3 don't work
 7. Set BlueStacks to 1280x720
 - 240 dpi and direct-x mode if you want to be safe
-
+8. Reorder dungeons to (tap MSM reorder tab): 1 = elite dungeon, 2 = daily, 3 = mu lung
 
 --- Usage instructions ---
 
-1. Make any wanted changes to character options file in notepad (optional)
+1. Make any wanted changes to character options file in notepad (optional after first time)
 2. In MSM, go to character selection screen
-3. Execute MSMbot.py 
+3. Execute MSMbot.py and follow the instructions on the prompt
 - if running the script just opens and closes a window, 
 - hold shift and right-click anywhere in the BlueStacks folder 
 - then select Windows PowerShell or whatever and type "python MSMbot.py" 
@@ -27,15 +27,13 @@
 
 --- character_options.json file ---
 
-- Elite dungeon only one currently working so ignore rest of options
 - Change number of tickets, difficulty, and completion time to fit each character
 - Change both # of tickets and completion time to 0 to skip a character
 
-
 --- Notes ---
 
-- Does ed for characters in order: top-left to top-right, then bottom-left to bottom-right
-- Elite dungeon icon must be in 1st dungeon slot
+- Does character selection in order: top-left to top-right, then bottom-left to bottom-right
+- Can only do one type of dungeon at a time
 
 
 

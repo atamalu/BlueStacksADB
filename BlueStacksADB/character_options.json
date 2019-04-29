@@ -1,114 +1,171 @@
 {
-	"CHARACTER 1": [{
-		"elite dungeon": [{
-			"tickets": 1,
-			"difficulty": 5,
-			"completion time": 260
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 2,
-			"completion time": 350
-			}],
-		"mu lung": [{
-			"tickets": 2,
-			"completion time": 350
-			}]
-		}],
-	"CHARACTER 2": [{
-		"elite dungeon": [{
-			"tickets": 2,
-			"difficulty": 4,
-			"completion time": 360
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 4,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}],
-	"CHARACTER 3": [{
-		"elite dungeon": [{
-			"tickets": 2,
-			"difficulty": 3,
-			"completion time": 320
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 4,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}],
-	"CHARACTER 4": [{
-		"elite dungeon": [{
-			"tickets": 2,
-			"difficulty": 4,
-			"completion time": 500
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 4,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}],
-	"CHARACTER 5": [{
-		"elite dungeon": [{
-			"tickets": 3,
-			"difficulty": 3,
-			"completion time": 320
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 3,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}],
-	"CHARACTER 6": [{
-		"elite dungeon": [{
-			"tickets": 3,
-			"difficulty": 3,
-			"completion time": 350
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 3,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}],
-	"CHARACTER 7": [{
-		"elite dungeon": [{
-			"tickets": 6,
-			"difficulty": 3,
-			"completion time": 340
-			}],
-		"daily dungeon": [{
-			"tickets": 1,
-			"difficulty": 3,
-			"completion time": 100
-			}],
-		"mu lung": [{
-			"tickets": 0,
-			"completion time": 0
-			}]
-		}]
+	"CHARACTER 1": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 320
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 5,
+					"completion time": 80
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 3,
+					"completion time": 350
+				}
+			]
+		}
+	],
+	"CHARACTER 2": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 2,
+					"completion time": 375
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 1,
+					"difficulty": 5,
+					"completion time": 100
+				}
+			],
+
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	],
+	"CHARACTER 3": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 2,
+					"completion time": 400
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 1,
+					"difficulty": 4,
+					"completion time": 80
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	],
+	"CHARACTER 4": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 4,
+					"difficulty": 4,
+					"completion time": 450
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 100
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	],
+	"CHARACTER 5": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 320
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 100
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	],
+	"CHARACTER 6": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 350
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 100
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	],
+	"CHARACTER 7": [
+		{
+			"elite dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 340
+				}
+			],
+			"daily dungeon": [
+				{
+					"tickets": 3,
+					"difficulty": 3,
+					"completion time": 100
+				}
+			],
+			"mu lung dungeon": [
+				{
+					"tickets": 0,
+					"completion time": 0
+				}
+			]
+		}
+	]
 }
