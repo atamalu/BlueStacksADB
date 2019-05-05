@@ -6,14 +6,14 @@
 2. Copy Bluestacks.exe (typically in C:\ProgramData folder) into C:\Program Files\BlueStacks\ (or wherever BlueStacks folder & Hd-Adb.exe is)
 3. Install python 3.7+ (programming language it was written in)
 4. Copy python.exe into the BlueStacks folder
-5. Copy MSMbot.py and .json files into the BlueStacks folder
+5. Copy MSMbot.py, MSMext.py, and .json files into the BlueStacks folder
 6. Enable Adb on BlueStacks options and restart BlueStacks
 - root BlueStacks and restart here if usage steps 1-3 don't work
 7. Set BlueStacks to 1280x720
 - 240 dpi and direct-x mode if you want to be safe
 8. Reorder dungeons to (tap MSM reorder tab): 1 = elite dungeon, 2 = daily, 3 = mu lung
 
---- Usage instructions ---
+--- MSMbot usage instructions ---
 
 1. Make any wanted changes to character options file in notepad (optional after first time)
 2. In MSM, go to character selection screen
@@ -24,11 +24,18 @@
 4. ?????
 5. Profit
 
+--- MSMext usage instructions ---
+
+1. Select your character and enter the battle/main screen
+2. Run the MSMext.py file that you put into your BlueStacks folder
+- Hold shift and right-click, go into Windows PowerShell, and type "python MSMbot.py"
+3. Follow the prompt
 
 --- character_options.json file ---
 
 - Change number of tickets, difficulty, and completion time to fit each character
 - Change both # of tickets and completion time to 0 to skip a character
+- Only needed for MSMbot.py
 
 --- Notes ---
 
